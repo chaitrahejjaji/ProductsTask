@@ -13,7 +13,7 @@ The Products Application consists of a .NET API (Products.sln) and the frontend 
 - Run the application with "https" option, this should open the Swagger page for the API - (https://localhost:7048/swagger/index.html)
   
 
-**Below are the API end points that can be viewed/tested from Swagger **
+**Below are the API end points that can be tested from Swagger**
 - GET (Gets all products) -> /api/Products
 - GET (Gets a product by Id) -> /api/Products/{id}
 - POST (Creates a new product) -> /api/Products
